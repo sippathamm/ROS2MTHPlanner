@@ -1,0 +1,5 @@
+<library path="mth_planner_plugin">
+	<class name="MTH/MTHPlanner" type="MTH::MTHPlanner" base_class_type="nav2_core::GlobalPlanner">
+	  <description>Metaheuristic Planner</description>
+	</class>
+</library>
